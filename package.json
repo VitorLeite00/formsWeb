@@ -1,0 +1,25 @@
+{
+  "name": "formsweb",
+  "version": "1.0.0",
+  "main": "formsWeb.js",
+
+  "scripts": {
+    "start": "node formsWeb.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorLeite00/formsWeb.git"
+  },
+  "author": "vitor leite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorLeite00/formsWeb/issues"
+  },
+  "homepage": "https://github.com/VitorLeite00/formsWeb#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
